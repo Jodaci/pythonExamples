@@ -1,4 +1,4 @@
 # pythonExamples
 Basic Examples of code in python
-- Conection to oracle database in python
-- Logger example
+- InsertDFtoOracle.py ---> Conection to oracle database in python
+- logger.py           ---> Logger example
